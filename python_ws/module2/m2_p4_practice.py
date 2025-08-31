@@ -60,8 +60,3 @@ In the future, I would like to pursue a career in Software Engineering.
 '''
 
 # Here your code:
-print(f'''\nHello! My name is {input("Enter your name: ")} and I am {input("Enter your age: ")} years old.
-I am currently studying {input("What degree/field are you studying? ")} and my SRN is {input("What is your student registration number (SRN)? ")}.
-My favorite subject/course is {input("What is your favorite subject or course? ")}. In my free time, I enjoy {input("What is your favorite hobby? ")},
-and my favorite food is {input("What is your favorite food? ")}. Regarding Python, my experience is: {input("What is your experience in Python? ")}
-In the future, I would like to pursue a career in {input("What career would you like to study? ")}.''')
